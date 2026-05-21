@@ -1,0 +1,13 @@
+title: Jan Verbesselt
+description: Earth Observation at the interface of science, policy, and real-world impact.
+theme: minima
+author: Jan Verbesselt
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-feed
+
+# Optional: set these if you use a custom domain or want absolute URLs
+# url: "https://janverbesselt.github.io"
+# baseurl: ""
