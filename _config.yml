@@ -1,5 +1,5 @@
 title: Jan Verbesselt
-description: Earth Observation at the interface of science, policy, and real-world impact.
+description: Earth Observation expert working at the interface of science, policy, and application.
 theme: minima
 author: Jan Verbesselt
 markdown: kramdown
@@ -8,6 +8,15 @@ kramdown:
 plugins:
   - jekyll-feed
 
-# Optional: set these if you use a custom domain or want absolute URLs
-# url: "https://janverbesselt.github.io"
-# baseurl: ""
+url: "https://janverbesselt.github.io"
+baseurl: ""
+
+# -------------------------------------------------------
+# Visitor tracking via GoatCounter (privacy-friendly, free)
+# Steps to activate:
+#   1. Register at https://www.goatcounter.com (free for personal use)
+#   2. Choose a site code, e.g. "janverbesselt"
+#   3. Replace YOUR_GOATCOUNTER_CODE below with your actual code
+#   4. Create the file _includes/head_custom.html (see README)
+# -------------------------------------------------------
+goatcounter_code: "YOUR_GOATCOUNTER_CODE"

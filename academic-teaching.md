@@ -4,21 +4,21 @@ title: Academic & Teaching
 permalink: /academic-teaching/
 ---
 
-[Home](/) · [About](/about) · [Academic & Teaching](/academic-teaching) · [Publications & Projects](/publications-projects) · [Insights](/insights) · [Passions](/passions) · [Contact](/contact)
-
 # Academic & Teaching
 
-Teaching has been a central part of my work, both in university settings and in international training contexts.
+## Teaching and Academic Engagement
 
-At Wageningen University, I contributed to remote sensing and advanced Earth Observation courses and developed the **Geo-Scripting** course, introducing computational approaches to geospatial analysis. The course materials are open-source and continue to be used internationally.
+Teaching has been a central part of my career, both in academic settings and in international training contexts.
 
-I supervised PhD students and postdoctoral researchers with a focus on independence, collaboration, and scientific curiosity.
+At Wageningen University, I contributed to courses in remote sensing and advanced Earth Observation. I also developed the [Geo-Scripting course](https://github.com/GeoScripting-WUR/GeoScripting-WUR.github.io), which introduced students to computational approaches in geospatial analysis. The course received educational awards and is available as a [formal course at Wageningen University](https://studyhandbook.wur.nl/modules/GRS33806?mainTab=module&type=Cursory).
 
-More recently, I have focused on targeted guest teaching and lecturing, including a 2026 course in Brazil.
+I supervised multiple PhD students and postdoctoral researchers, with a focus on independence, collaboration, and scientific curiosity.
 
-## Topics I can teach
+More recently, I have focused on targeted teaching and guest lecturing, including international training activities such as the 2026 course in Brazil at the Serrapilheira Institute.
 
-I regularly teach and present on the following themes:
+---
+
+## Topics I Teach
 
 - Earth Observation principles and applications
 - Copernicus services and ESA EO programmes
@@ -26,19 +26,24 @@ I regularly teach and present on the following themes:
 - Open-source approaches and reproducible EO workflows
 - AI and geospatial data, including emerging foundation models and digital twin contexts
 
-## Coaching & mentoring
+---
 
-My coaching style aims to create clarity and momentum: defining a strong research question, mapping the path from method to contribution, and building confidence in writing and presenting.
+## Coaching & Mentoring
 
-I particularly enjoy mentoring at the interface between science, operations, and policy—where framing and communication matter as much as technical rigour.
+My coaching style aims to create clarity and momentum: sharpening a research question, mapping the path from method to contribution, and building confidence in writing and presenting.
 
-## Potential engagements
+I particularly enjoy mentoring at the interface between science, operations, and policy — where framing and communication matter as much as technical rigour.
+
+---
+
+## Potential Engagements
 
 I am open to:
 
 - Guest professorships and guest lectures
 - Short courses and tailored trainings
 - Academic coaching (research framing, writing, positioning, career transitions)
-- Advisory work on EO programme uptake and user engagement
+- PhD supervision support and jury participation
+- Strategic advisory roles in Earth Observation and geospatial data
 
 If you have an idea in mind, feel free to reach out via the [Contact](/contact) page.
