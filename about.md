@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 ## Profile
 
 My career has developed across science, academia, and policy, with a consistent focus on understanding environmental change through satellite Earth Observation.
