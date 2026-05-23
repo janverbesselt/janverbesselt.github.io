@@ -1,23 +1,7 @@
 # janverbesselt.github.io
 
 Personal website for Jan Verbesselt — Earth Observation expert at the interface of science, policy, and application.
-
-## Quick edit
-
-All pages are Markdown files in the repository root:
-
-| File | Page |
-|------|------|
-| `index.md` | Home |
-| `about.md` | About |
-| `academic-teaching.md` | Academic & Teaching |
-| `publications-projects.md` | Publications & Projects |
-| `insights.md` | Insights |
-| `passions.md` | Passions |
-| `contact.md` | Contact |
-
 ## Build
-
 GitHub Pages builds the site automatically on push to `main`.
 
 ---

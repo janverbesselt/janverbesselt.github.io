@@ -3,8 +3,6 @@ layout: page
 permalink: /academic-teaching/
 ---
 
-## Teaching and Academic Engagement
-
 Teaching has been a central part of my career, both in academic settings and in international training contexts.
 
 At Wageningen University, I contributed to courses in remote sensing and advanced Earth Observation. I also developed the [Geo-Scripting course](https://github.com/GeoScripting-WUR/GeoScripting-WUR.github.io), which introduced students to computational approaches in geospatial analysis. The course received educational awards and is available as a [formal course at Wageningen University](https://studyhandbook.wur.nl/modules/GRS33806?mainTab=module&type=Cursory).
