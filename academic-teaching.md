@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Academic & Teaching
 permalink: /academic-teaching/
 ---
-
-# Academic & Teaching
 
 ## Teaching and Academic Engagement
 

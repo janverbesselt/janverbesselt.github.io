@@ -11,6 +11,14 @@ plugins:
 url: "https://janverbesselt.github.io"
 baseurl: ""
 
+header_pages:
+  - index.md
+  - publications-projects.md
+  - academic-teaching.md
+  - insights.md
+  - passions.md
+  - contact.md
+
 # -------------------------------------------------------
 # Visitor tracking via GoatCounter (privacy-friendly, free)
 # Steps to activate:
