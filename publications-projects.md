@@ -4,8 +4,6 @@ title: Publications & Projects
 permalink: /publications-projects/
 ---
 
-# Publications & Projects
-
 ## Scientific Publications
 
 For a complete and up-to-date overview of my publications:

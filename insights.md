@@ -4,8 +4,6 @@ title: Insights
 permalink: /insights/
 ---
 
-# Insights
-
 I use this space for short reflections on Earth Observation, teaching, and the interface between science and operational programmes.
 
 ---
