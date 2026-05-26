@@ -1,7 +1,9 @@
-# janverbesselt.github.io
+# [https://janverbesselt.github.io/](https://janverbesselt.github.io/)
 
-Personal website for Jan Verbesselt — Earth Observation expert at the interface of science, policy, and application.
-## Build
+Personal website for Jan Verbesselt — Earth Observation expert at the interface of science, policy, and application. 
+
+# Build
+
 GitHub Pages builds the site automatically on push to `main`.
 
 <!-- ---

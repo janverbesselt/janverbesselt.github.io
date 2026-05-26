@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: home
 permalink: /
 last_modified: "May 26 2026"
 ---
