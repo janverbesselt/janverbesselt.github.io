@@ -22,13 +22,8 @@ See also [BFAST tutorials](https://janverbesselt.github.io/BFASTforAEO/) and [Ge
 
 ---
 
-# Reflection
 
-I am increasingly interested in how Earth Observation education and research should evolve in response to the rapid emergence of artificial intelligence. Rather than replacing core skills, AI opens new opportunities to rethink how we teach, analyse, and collaborate.
-
-A central question in my work is how to bridge depth in science with relevance in society. This requires not only technical expertise, but also dialogue across disciplines, institutions, and countries.
-
-### Profile
+# Profile
 
 My career has developed across science, academia, and policy, with a consistent focus on understanding environmental change through satellite Earth Observation.
 
@@ -40,18 +35,14 @@ At Wageningen University (the Netherlands), I built and led a research group foc
 
 Today, I work at the Belgian Science Policy Office (BELSPO), where I represent Belgium in ESA and Copernicus programmes. My role focuses on aligning science, data infrastructure, and user needs across Europe.
 
----
-
-### Motivation
+## Motivation
 
 What drives me is the opportunity to connect different worlds: academic research, operational systems, and societal applications.
-
-Earth Observation has reached a level of maturity where data is abundant, but meaningful use requires integration, interpretation, and collaboration. I am motivated by enabling that transition.
+Earth Observation has reached a level of maturity where data is abundant, but meaningful use requires integration, interpretation, and collaboration.
 
 ---
 
-### Values
+## Values
 
 In my work and collaborations, I value openness, curiosity, and shared learning.
-
 I believe in open science — not only as a principle, but as a practical approach to accelerate progress. Education is a central pillar: students and professionals should learn not only tools, but also how to think critically and work across disciplines with artists, journalists, and all science domains (e.g. psychology, computer science, environmental science, etc.).

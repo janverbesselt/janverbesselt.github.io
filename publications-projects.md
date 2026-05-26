@@ -4,9 +4,7 @@ title: Publications & Projects
 permalink: /publications-projects/
 ---
 
-## Scientific Publications
-
-For a complete and up-to-date overview of my publications:
+For an up-to-date overview of my publications:
 
 - [ORCID](https://orcid.org/0000-0001-7923-4309): 0000-0001-7923-4309
 - [Google Scholar profile](https://scholar.google.com/citations?user=LkURAcoAAAAJ)

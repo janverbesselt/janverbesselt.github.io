@@ -6,7 +6,11 @@ permalink: /insights/
 
 I use this space for short reflections on Earth Observation, teaching, and the interface between science and operational programmes.
 
----
+# Reflection
+
+I am increasingly interested in how Earth Observation education and research should evolve in response to the rapid emergence of artificial intelligence. Rather than replacing core skills, AI opens new opportunities to rethink how we teach, analyse, and collaborate.
+
+A central question in my work is how to bridge depth in science with relevance in society. This requires not only technical expertise, but also dialogue across disciplines, institutions, and countries.
 
 ## Teaching in Brazil
 
@@ -28,7 +32,7 @@ Another lesson is the importance of collaboration. Earth Observation is inherent
 
 ---
 
-## Suggested topics
+<!-- ## Suggested topics
 
 - The evolving role of Copernicus in a changing geopolitical landscape
 - Teaching Earth Observation in the age of AI
@@ -36,3 +40,4 @@ Another lesson is the importance of collaboration. Earth Observation is inherent
 - Why time series analysis still matters
 - Bridging policy and science in European EO
 - The future of geospatial foundation models
+ -->

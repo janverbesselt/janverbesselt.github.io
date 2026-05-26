@@ -4,7 +4,7 @@ Personal website for Jan Verbesselt — Earth Observation expert at the interfac
 ## Build
 GitHub Pages builds the site automatically on push to `main`.
 
----
+<!-- ---
 
 ## Fix: Duplicate navigation on desktop
 
@@ -14,11 +14,11 @@ each page, causing a duplicate nav row on desktop browsers.
 
 **Fix applied:** The manual nav lines have been removed from all Markdown files.
 The Minima theme handles navigation automatically via page `title` and `permalink`
-front matter.
+front matter. -->
 
 ---
 
-## Visitor tracking (GoatCounter)
+<!-- ## Visitor tracking (GoatCounter)
 
 This site uses [GoatCounter](https://www.goatcounter.com) — a lightweight,
 privacy-friendly, GDPR-compliant analytics tool. No cookies, no personal data.
@@ -33,9 +33,9 @@ privacy-friendly, GDPR-compliant analytics tool. No cookies, no personal data.
 
 ### View stats
 
-Go to `https://YOUR_CODE.goatcounter.com` to see page views, referrers, and visitor counts.
+Go to `https://YOUR_CODE.goatcounter.com` to see page views, referrers, and visitor counts. -->
 
-### Alternative: Google Analytics 4
+<!-- ### Alternative: Google Analytics 4
 
 If you prefer Google Analytics:
 1. Create a GA4 property at https://analytics.google.com
@@ -44,4 +44,4 @@ If you prefer Google Analytics:
    ```yaml
    google_analytics: G-XXXXXXXXXX
    ```
-   Minima v2.5+ supports this natively — no custom include needed.
+   Minima v2.5+ supports this natively — no custom include needed. -->
