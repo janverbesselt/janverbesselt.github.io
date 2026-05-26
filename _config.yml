@@ -1,5 +1,5 @@
 title: Jan Verbesselt
-description: Earth Observation expert working at the interface of science, policy, and application.
+description: Earth Observation expert working at the interface of science, policy, and applications.
 theme: minima
 author: Jan Verbesselt
 markdown: kramdown
@@ -27,4 +27,4 @@ header_pages:
 #   3. Replace YOUR_GOATCOUNTER_CODE below with your actual code
 #   4. Create the file _includes/head_custom.html (see README)
 # -------------------------------------------------------
-goatcounter_code: "YOUR_GOATCOUNTER_CODE"
+# goatcounter_code: "YOUR_GOATCOUNTER_CODE"
