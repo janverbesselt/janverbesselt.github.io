@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching and coaching
 permalink: /academic-teaching/
 ---
 
