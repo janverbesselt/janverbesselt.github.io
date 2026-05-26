@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Home
+title: 
 permalink: /
+last_modified: "May 26 2026"
 ---
+*Last updated: {{ page.last_modified }}*
 
 # Earth Observation expert working at the interface of science, policy, and application
 

@@ -33,7 +33,7 @@ privacy-friendly, GDPR-compliant analytics tool. No cookies, no personal data.
 
 ### View stats
 
-Go to `https://YOUR_CODE.goatcounter.com` to see page views, referrers, and visitor counts. -->
+Go to `https://janverbesselt.goatcounter.com/` to see page views, referrers, and visitor counts. -->
 
 <!-- ### Alternative: Google Analytics 4
 
