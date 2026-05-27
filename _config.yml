@@ -12,7 +12,9 @@ url: "https://janverbesselt.github.io"
 baseurl: ""
 
 header_pages:
-  - publications-projects.md
+  - index.md
+  - curriculum.md
+  - resources.md
   - academic-teaching.md
   - insights.md
   - passions.md
