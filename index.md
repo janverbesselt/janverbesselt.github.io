@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jan Verbesselt
+title: Latest news
 description: Earth Observation | Science & Policy
 permalink: /
 last_modified: "May 26 2026"
