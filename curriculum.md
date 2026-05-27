@@ -4,8 +4,6 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-# Curriculum
-
 ## Summary
 
 Earth Observation expert with 20+ years of experience spanning academic research, international programme management, and open-source development. Known for bridging scientific depth with real-world application — from tropical forest monitoring to European space policy.
@@ -16,8 +14,8 @@ Earth Observation expert with 20+ years of experience spanning academic research
 
 | Year | Degree | Institution |
 |------|--------|-------------|
-| 2006 | **PhD** Bioscience Engineering & Geomatics | KU Leuven, Belgium |
 | 2015 | **University Teaching Qualification** (BKO/UTQ) | Wageningen University, Netherlands |
+| 2006 | **PhD** Bioscience Engineering & Geomatics | KU Leuven, Belgium |
 | 2002 | **MSc** Earth Observation *(Magna Cum Laude)* | Purdue University (US) & KU Leuven (BE) |
 | 2000 | **MSc** Bioscience Engineering *(Cum Laude)* | KU Leuven, Belgium |
 | 1997 | **BSc** Biological Engineering *(Cum Fructu)* | KU Leuven, Belgium |

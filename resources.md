@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-# Resources
-
 This page highlights key publications and open-source tools developed over the course of my research career. The goal is to make these accessible and useful — whether you are a researcher, student, or practitioner working with Earth Observation data.
 
 ---
