@@ -1,142 +1,102 @@
 /* ============================================================
-   Jan Verbesselt — janverbesselt.github.io
-   custom.css: layout tweaks, dark mode, footer fix
+   Jan Verbesselt — custom.css
    ============================================================ */
 
-/* ── Base tweaks ─────────────────────────────────────────── */
+/* ── Header ──────────────────────────────────────────────── */
 .site-header {
   border-top: 3px solid #2a7ae2;
 }
 
-/* Hide "Last updated" date on home page feed */
+/* ── Hide "Last updated" date on home/feed page ─────────── */
 .post-meta { display: none; }
 
 /* ── Footer: hide duplicate author name ──────────────────── */
-.footer-col-wrapper .footer-col-1 p,
-.footer-col-wrapper .p-author {
+/* Minima renders site.author as <li class="p-name"> */
+.footer-col-1 .p-name {
   display: none;
 }
 
-/* ── Dark mode toggle button ─────────────────────────────── */
+/* ── Dark mode toggle button (fixed bottom-right) ───────── */
 #dark-toggle {
   position: fixed;
-  bottom: 1.2rem;
-  right: 1.2rem;
-  z-index: 999;
+  bottom: 1.4rem;
+  right: 1.4rem;
+  z-index: 9999;
   background: #2a7ae2;
-  color: #fff;
+  color: white;
   border: none;
   border-radius: 50%;
-  width: 2.4rem;
-  height: 2.4rem;
-  font-size: 1.1rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  font-size: 1.2rem;
+  line-height: 1;
   cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
-  transition: background 0.2s;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
 }
 #dark-toggle:hover { background: #1a5cbf; }
 
-/* ── Dark mode styles ────────────────────────────────────── */
-body.dark-mode {
-  background: #1a1a2e;
-  color: #e0e0e0;
-}
-
-body.dark-mode .site-header {
-  background: #16213e;
-  border-bottom-color: #2a7ae2;
+/* ── Dark mode colours ───────────────────────────────────── */
+body.dark-mode,
+body.dark-mode .site-header,
+body.dark-mode .site-footer {
+  background-color: #1a1a2e;
+  color: #dde1ea;
+  border-color: #2a4a7a;
 }
 
 body.dark-mode .site-title,
-body.dark-mode .site-title:visited {
-  color: #e0e0e0 !important;
+body.dark-mode .site-title:visited,
+body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
+  color: #f0f0f0 !important;
+}
+
+body.dark-mode .site-nav {
+  background: #16213e;
 }
 
 body.dark-mode .site-nav .page-link {
-  color: #c0c8d8;
+  color: #b8c8e8;
 }
 
 body.dark-mode .site-nav .page-link:hover {
-  color: #2a7ae2;
-}
-
-body.dark-mode .post-content,
-body.dark-mode .page-content,
-body.dark-mode article {
-  color: #e0e0e0;
-}
-
-body.dark-mode h1,
-body.dark-mode h2,
-body.dark-mode h3 {
-  color: #f0f0f0;
-}
-
-body.dark-mode a {
   color: #7eb8f7;
 }
 
-body.dark-mode a:hover {
-  color: #afd4ff;
-}
+body.dark-mode a { color: #7eb8f7; }
+body.dark-mode a:hover { color: #afd4ff; }
 
-body.dark-mode table {
-  color: #e0e0e0;
-}
+body.dark-mode table { color: #dde1ea; }
+body.dark-mode table th { background: #2a3a5c; }
+body.dark-mode table tr:nth-child(even) { background: #22304a; }
 
-body.dark-mode table thead {
-  background: #2a3a5c;
-}
-
-body.dark-mode table tr:nth-child(even) {
-  background: #22304a;
-}
-
-body.dark-mode .site-footer {
-  background: #16213e;
-  border-top-color: #2a4a7a;
-  color: #a0a8b8;
-}
-
-body.dark-mode .site-footer a {
-  color: #7eb8f7;
-}
-
-body.dark-mode code,
-body.dark-mode pre {
+body.dark-mode code, body.dark-mode pre {
   background: #0d1117;
   color: #c9d1d9;
 }
 
+body.dark-mode .site-footer {
+  color: #8a9ab8;
+}
+
+body.dark-mode .site-footer a { color: #7eb8f7; }
+
 body.dark-mode blockquote {
-  color: #a0a8b8;
+  color: #8a9ab8;
   border-left-color: #2a7ae2;
 }
 
-/* ── System dark mode fallback (no JS needed) ────────────── */
+/* ── System preference fallback (no JS) ─────────────────── */
 @media (prefers-color-scheme: dark) {
-  body:not(.light-mode) {
-    background: #1a1a2e;
-    color: #e0e0e0;
-  }
-  body:not(.light-mode) .site-header {
-    background: #16213e;
-  }
+  body:not(.light-mode) { background: #1a1a2e; color: #dde1ea; }
+  body:not(.light-mode) .site-header { background: #16213e; }
+  body:not(.light-mode) .site-footer { background: #16213e; color: #8a9ab8; }
   body:not(.light-mode) .site-title,
-  body:not(.light-mode) .site-title:visited {
-    color: #e0e0e0 !important;
-  }
-  body:not(.light-mode) .site-nav .page-link {
-    color: #c0c8d8;
-  }
+  body:not(.light-mode) .site-title:visited { color: #f0f0f0 !important; }
+  body:not(.light-mode) .site-nav .page-link { color: #b8c8e8; }
   body:not(.light-mode) a { color: #7eb8f7; }
   body:not(.light-mode) h1,
   body:not(.light-mode) h2,
   body:not(.light-mode) h3 { color: #f0f0f0; }
-  body:not(.light-mode) .site-footer {
-    background: #16213e;
-    color: #a0a8b8;
-  }
-  body:not(.light-mode) table thead { background: #2a3a5c; }
+  body:not(.light-mode) table th { background: #2a3a5c; }
   body:not(.light-mode) table tr:nth-child(even) { background: #22304a; }
 }
