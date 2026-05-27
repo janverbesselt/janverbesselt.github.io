@@ -1,0 +1,182 @@
+---
+---
+
+@import "minima";
+
+// ─── Typography & colour tokens ────────────────────────────────────────────
+$brand-color:     #2a7ae2;
+$accent:          #1a5cbf;
+$text-dark:       #1a1a1a;
+$text-muted:      #6a6a6a;
+$border-light:    #e8e8e8;
+$header-bg:       #ffffff;
+
+// ─── Header: centred brand + centred nav ───────────────────────────────────
+.site-header {
+  background: $header-bg;
+  border-top: 3px solid $brand-color;
+  border-bottom: 1px solid $border-light;
+  padding: 1.4rem 0 0;
+  text-align: center;
+}
+
+.header-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+// Brand block
+.site-brand {
+  margin-bottom: 0.8rem;
+}
+
+.site-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: $text-dark !important;
+  text-decoration: none;
+
+  &:hover {
+    color: $brand-color !important;
+    text-decoration: none;
+  }
+}
+
+.site-tagline {
+  margin: 0.15rem 0 0;
+  font-size: 0.88rem;
+  color: $text-muted;
+  letter-spacing: 0.02em;
+}
+
+// ─── Nav bar ───────────────────────────────────────────────────────────────
+.site-nav {
+  width: 100%;
+  background: #f8f9fa;
+  border-top: 1px solid $border-light;
+
+  // hide the checkbox toggle trick on desktop
+  .nav-trigger { display: none; }
+  .menu-icon   { display: none; }
+
+  .trigger {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0;
+    padding: 0;
+  }
+
+  .page-link {
+    display: inline-block;
+    padding: 0.65rem 1.1rem;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: $text-dark;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    border-bottom: 3px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      color: $brand-color;
+      border-bottom-color: $brand-color;
+    }
+
+    &.active {
+      color: $brand-color;
+      border-bottom-color: $brand-color;
+      font-weight: 600;
+    }
+  }
+}
+
+// ─── Mobile hamburger ──────────────────────────────────────────────────────
+@media screen and (max-width: 600px) {
+  .site-header {
+    text-align: left;
+    padding: 0.9rem 0;
+  }
+
+  .header-wrapper {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .site-brand {
+    margin-bottom: 0;
+  }
+
+  .site-tagline {
+    display: none; // keep mobile header clean
+  }
+
+  .site-title {
+    font-size: 1.1rem;
+  }
+
+  .site-nav {
+    position: relative;
+    background: transparent;
+    border-top: none;
+    width: auto;
+
+    label[for="nav-trigger"] {
+      display: block;
+      cursor: pointer;
+      padding: 0.4rem;
+    }
+
+    .menu-icon {
+      display: block;
+      svg path { fill: $text-dark; }
+    }
+
+    .nav-trigger:checked ~ .trigger {
+      display: flex;
+    }
+
+    .trigger {
+      display: none;
+      flex-direction: column;
+      align-items: flex-start;
+      position: absolute;
+      right: 0;
+      top: 2.2rem;
+      background: #fff;
+      border: 1px solid $border-light;
+      border-radius: 4px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      min-width: 180px;
+      z-index: 100;
+    }
+
+    .page-link {
+      width: 100%;
+      border-bottom: none;
+      border-bottom: 1px solid $border-light;
+      padding: 0.65rem 1rem;
+
+      &:last-child { border-bottom: none; }
+      &:hover { background: #f0f4ff; }
+    }
+  }
+}
+
+// ─── Content tweaks ────────────────────────────────────────────────────────
+.page-content {
+  padding-top: 2rem;
+}
+
+.post-title, h1 {
+  color: $text-dark;
+}
+
+a {
+  color: $brand-color;
+  &:hover { color: $accent; }
+}
