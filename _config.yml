@@ -1,5 +1,5 @@
-title: Earth Observation | Science & Policy
-description: Earth Observation expert working at the interface of science, policy, and applications.
+title: Jan Verbesselt
+description: Earth Observation expert at the interface of science, policy, and application.
 theme: minima
 author: Jan Verbesselt
 markdown: kramdown
@@ -19,12 +19,4 @@ header_pages:
   - passions.md
   - contact.md
 
-# -------------------------------------------------------
-# Visitor tracking via GoatCounter (privacy-friendly, free)
-# Steps to activate:
-#   1. Register at https://www.goatcounter.com (free for personal use)
-#   2. Choose a site code, e.g. "janverbesselt"
-#   3. Replace YOUR_GOATCOUNTER_CODE below with your actual code
-#   4. Create the file _includes/head_custom.html (see README)
-# -------------------------------------------------------
 goatcounter_code: "janverbesselt"
