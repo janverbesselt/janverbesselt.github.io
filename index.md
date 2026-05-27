@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: Jan Verbesselt
+description: Earth Observation | Science & Policy
 permalink: /
 last_modified: "May 26 2026"
 ---
@@ -12,9 +13,8 @@ I work at the intersection of European Earth Observation programmes, academic re
 
 My work builds on an academic career in Earth Observation, where I focused on time series analysis, ecosystem monitoring, and the development of open-source tools such as [BFAST](https://github.com/bfast2/bfast). Today, I bring that scientific foundation into policy, collaboration, and emerging domains such as AI and digital twins.
 
----
 
-# Current Activities
+## Current Activities
 
 My work focuses on connecting European Earth Observation programmes with scientific communities and operational users. This includes engagement with Copernicus services, Destination Earth, and national stakeholders working on climate risk, emergency response, and environmental monitoring.
 
@@ -22,10 +22,8 @@ Also, alongside my work in ESA and Copernicus, I recently taught a course at the
 
 See also [BFAST tutorials](https://janverbesselt.github.io/BFASTforAEO/) and [Geo-Scripting course materials](https://geoscripting-wur.github.io/) at Wageningen University.
 
----
 
-
-# Profile
+## Profile
 
 My career has developed across science, academia, and policy, with a consistent focus on understanding environmental change through satellite Earth Observation.
 
@@ -37,14 +35,12 @@ At Wageningen University (the Netherlands), I built and led a research group foc
 
 Today, I work at the Belgian Science Policy Office (BELSPO), where I represent Belgium in ESA and Copernicus programmes. My role focuses on aligning science, data infrastructure, and user needs across Europe.
 
-## Motivation
+### Motivation
 
 What drives me is the opportunity to connect different worlds: academic research, operational systems, and societal applications.
 Earth Observation has reached a level of maturity where data is abundant, but meaningful use requires integration, interpretation, and collaboration.
 
----
-
-## Values
+### Values
 
 In my work and collaborations, I value openness, curiosity, and shared learning.
 I believe in open science — not only as a principle, but as a practical approach to accelerate progress. Education is a central pillar: students and professionals should learn not only tools, but also how to think critically and work across disciplines with artists, journalists, and all science domains (e.g. psychology, computer science, environmental science, etc.).
