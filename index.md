@@ -36,4 +36,4 @@ Continued engagement with Belgian and European communities on Copernicus service
 
 *Reach me via [LinkedIn](https://www.linkedin.com/in/jan-verbesselt/) or jan.verbesselt[@]belspo.be*
 
-*Last updated: {{ "{{ site.time | date: '%B %d, %Y'" }}}}*
+*Last updated: {{ site.time | date: '%B %d, %Y' }}*
