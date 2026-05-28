@@ -1,19 +1,14 @@
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@master
 
 title: Jan Verbesselt
 description: Earth Observation expert at the interface of science, policy, and application.
 
-# Minima v3 built-in dark mode:
-# "auto"  = follows visitor's OS dark/light setting automatically (recommended)
-# "dark"  = always dark
-# "light" = always light (same as current)
-# "solarized" / "solarized-dark" = alternative colour schemes
 minima:
-  skin: light
+  skin: auto
 
 author:
   name: Jan Verbesselt
-  email: jan.verbesselt[@]belspo.be
+  email: jan.verbesselt@belspo.be
 
 markdown: kramdown
 kramdown:
@@ -24,13 +19,5 @@ plugins:
 
 url: "https://janverbesselt.github.io"
 baseurl: ""
-
-header_pages:
-  - index.md
-  - curriculum.md
-  - resources.md
-  - academic-teaching.md
-  - insights.md
-  - contact.md
 
 goatcounter_code: "janverbesselt"
