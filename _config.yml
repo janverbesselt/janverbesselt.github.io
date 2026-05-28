@@ -9,7 +9,7 @@ description: Earth Observation expert at the interface of science, policy, and a
 # "light" = always light (same as current)
 # "solarized" / "solarized-dark" = alternative colour schemes
 minima:
-  skin: auto
+  skin: light
 
 author:
   name: Jan Verbesselt
@@ -31,7 +31,6 @@ header_pages:
   - resources.md
   - academic-teaching.md
   - insights.md
-  - passions.md
   - contact.md
 
 goatcounter_code: "janverbesselt"
