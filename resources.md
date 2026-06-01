@@ -4,7 +4,13 @@ title: Resources
 permalink: /resources/
 ---
 
-This page highlights open-source tools and teaching tutorials developed over the course of my research career. Feedback is welcome.
+This page highlights (1) open-source tools and teaching tutorials developed, (2) my publications  over the course of my research career.
+
+For a complete publication list:
+- [Google Scholar](https://scholar.google.com/citations?user=LkURAcoAAAAJ)
+- [ORCID: 0000-0001-7923-4309](https://orcid.org/0000-0001-7923-4309)
+- [ResearchGate](https://www.researchgate.net/profile/Jan-Verbesselt)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=12645007600)
 
 ## Open-Source Software and tutorials
 
@@ -43,3 +49,37 @@ An open-source course developed at Wageningen University teaching geospatial scr
 - YouTube intro: [Geo-Scripting overview](https://www.youtube.com/watch?v=ZD2LqpUpps8)
 
 The materials are fully open-source and continue to be used internationally.
+
+---
+
+## Projects
+
+Examples of competitive funding and collaborative work:
+
+- **OpenEO** (EU Horizon 2020): enabling large-scale Earth Observation data analysis
+- **SEPAL** (FAO): implementation and capacity building for forest monitoring
+- **Big EO Analytics**: projects combining data science and remote sensing
+- **Copernicus Global Land** monitoring contributions
+
+---
+
+## Key Publications
+
+### 1. Detecting change in satellite time series — BFAST (2010)
+**Verbesselt J., Hyndman R., Newnham G.** — *Remote Sensing of Environment* (2010)
+
+The foundational paper behind the BFAST method. Introduces a framework for decomposing satellite time series into trend, seasonal, and remainder components — and detecting structural breaks within each. This is the most cited paper from my research group.
+
+→ [Google Scholar profile](https://scholar.google.com/citations?user=LkURAcoAAAAJ)
+
+### 2. Remotely sensed resilience of tropical forests (2016)
+**Verbesselt J. et al.** — *Nature Climate Change* (2016)
+DOI: [10.1038/nclimate3108](https://doi.org/10.1038/nclimate3108)
+
+Demonstrates that satellite time series can be used to detect early warning signals of forest resilience loss — before visible degradation occurs. One of the highest-impact papers from my group, with implications for global forest monitoring and tipping point research.
+
+### 3. Ecosystem resilience monitoring using Earth Observation (2024)
+**Bathiany S. et al.** (co-author) — *Surveys in Geophysics* (2024)
+DOI: [10.1007/s10712-024-09833-z](https://doi.org/10.1007/s10712-024-09833-z)
+
+A collaborative synthesis from the International Space Science Institute (ISSI) Workshop on Tipping Points. Addresses challenges and opportunities in using EO data for resilience monitoring — directly connected to the TipMIP intercomparison project.
