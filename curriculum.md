@@ -4,11 +4,7 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-## Summary
-
-Earth Observation expert with 20+ years of experience spanning academic research, international programme management, and open-source development. Known for bridging scientific depth with real-world application — from tropical forest monitoring to European space policy.
-
----
+Earth Observation expert with 20+ years of experience spanning academic research, international programme management, and open-source development. Known for bridging scientific depth with real-world application — from forest monitoring, disaster detection, to European space policy.
 
 ## Education
 
@@ -44,11 +40,10 @@ Operational forest monitoring for Victoria (Australian Government). Collaborated
 
 ## Technical Skills
 
-- **Programming:** R (fluent), Python, Bash, Linux HPC environments, GitHub
+- **Programming:** R (fluent), Bash, Linux HPC environments, GitHub, Python
 - **Earth Observation:** Sentinel-1/2, MODIS, Landsat; time series analysis, change detection, land cover mapping
-- **Big data & platforms:** Google Earth Engine, Copernicus Data Space Ecosystem, openEO, FAO SEPAL, Destination Earth / DestinE
-- **AI & emerging:** Geospatial foundation models (ESA TerraMind), deep learning for EO, agentic programming
-- **Languages:** Dutch, English, French (all fluent)
+- **Big data & platforms:** openEO, FAO SEPAL, Destination Earth (DestinE), Copernicus Data Space Ecosystem
+- **Languages:** Dutch, English, French
 
 ---
 
@@ -63,6 +58,7 @@ Operational forest monitoring for Victoria (Australian Government). Collaborated
 
 ## Selected Invited Talks & Keynotes
 
+- Presentation, [BeGEO 2026](https://ngi.be/begeo/2026/track/veerkracht-met-open-data-geo-voor-wereldwijde-doelen/), Brussels — *Operational Flood and Emergency Mapping from Space: How Belgium, ESA and EU Copernicus Turn Data into Decisions*
 - Keynote, IIASA Geo-Open-Hack, Austria (June 2024)
 - Panel discussion, AI4Copernicus (May 2024)
 - Keynote, ESA Living Planet Symposium (2022) — *EO for ecosystem resilience monitoring*
@@ -78,4 +74,11 @@ Kim Calders · Johannes Reiche · Michael Schultz · Ben Brede · Ben DeVries ·
 
 ---
 
-For a full overview: [LinkedIn](https://www.linkedin.com/in/jan-verbesselt/) · [ORCID](https://orcid.org/0000-0001-7923-4309) · [Google Scholar](https://scholar.google.com/citations?user=LkURAcoAAAAJ)
+## Science Communication
+
+- [MetOp-SG A1 weersatelliet — VRT NWS](https://www.vrt.be/vrtnws/nl/2025/08/11/nieuwe-weersatteliet-metop-sg-a1-moet-europa-onafhankelijker-mak/) (August 2025) — quoted on the Sentinel-5 instrument and daily atmospheric monitoring
+- [ESA Biomass satelliet lancering — VRT NWS](https://www.vrt.be/vrtnws/nl/2025/04/28/biomassasatelliet-esa-earth-explorer-biomass-satellite/) (April 2025) — quoted on radar-based forest monitoring through clouds and canopy
+- [ESERO Belgium National Partners Day](https://esero.be/index.php/nl/author/camille/) (August 2025) — presentation on Copernicus Earth Observation and open satellite data
+- [IIASA Geo-Open-Hack 2024 keynote](https://iiasa.ac.at/events/jun-2024/geo-open-hack-2024-big-geospatial-data-hackathon-with-open-infrastructure-and-tools)
+- [AI4Copernicus panel discussion (2024)](https://www.ai4copernicus.org/programme_2024/)
+- [Nature Today: ecosystem monitoring](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=22950)
