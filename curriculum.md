@@ -17,6 +17,7 @@ Earth Observation expert with 20+ years of experience spanning academic research
 | 1997 | **BSc** Biological Engineering *(Cum Fructu)* | KU Leuven, Belgium |
 
 PhD title: *Monitoring Vegetation Dynamics with Hyper-temporal Satellite Data to Improve Fire Risk Assessment in Savanna and Forest Ecosystems.* Field campaigns in South Africa (Kruger National Park), in collaboration with Stellenbosch University and CSIR South Africa.
+- [PhD defence record — KU Leuven](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E02/3E020104.htm)
 
 ---
 
@@ -82,3 +83,10 @@ Kim Calders · Johannes Reiche · Michael Schultz · Ben Brede · Ben DeVries ·
 - [IIASA Geo-Open-Hack 2024 keynote](https://iiasa.ac.at/events/jun-2024/geo-open-hack-2024-big-geospatial-data-hackathon-with-open-infrastructure-and-tools)
 - [AI4Copernicus panel discussion (2024)](https://www.ai4copernicus.org/programme_2024/)
 - [Nature Today: ecosystem monitoring](https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=22950)
+
+## Fun find
+
+A newspaper clipping (~2006–2007) covering my doctoral research on satellite-based fire risk prediction, kindly dug up by my mother-in-law decades later.
+![Newspaper clipping on fire risk research](/assets/images/fire-risk-newspaper-clipping.jpg)
+
+- [LinkedIn post about this find](https://www.linkedin.com/posts/jan-verbesselt_copernicus-wildfires-climateadaptation-share-7472916310981656576-XV3T/)
