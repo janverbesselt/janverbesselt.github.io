@@ -87,6 +87,10 @@ Kim Calders · Johannes Reiche · Michael Schultz · Ben Brede · Ben DeVries ·
 ## Fun find
 
 A newspaper clipping (~2006–2007) covering my doctoral research on satellite-based fire risk prediction, kindly dug up by my mother-in-law decades later.
-![Newspaper clipping on fire risk research](/assets/images/fire-risk-newspaper-clipping.jpg)
+
+<img src="/assets/images/fire-risk-newspaper-clipping.jpg" alt="Newspaper clipping on fire risk research" style="max-width: 350px; width: 100%;">
+
+**English summary:** The article reports on doctoral research at KU Leuven's Geomatics Engineering lab developing indicators to predict fire risk in forests and savannas using satellite imagery, drawing on data from the SPOT Vegetation satellite sensor. Estimating fire risk requires regularly measuring the amount of dried-out vegetation, since risk increases with more dry, flammable material present. At the time, such measurements relied on costly and time-consuming field surveys and weather forecasts.
 
 - [LinkedIn post about this find](https://www.linkedin.com/posts/jan-verbesselt_copernicus-wildfires-climateadaptation-share-7472916310981656576-XV3T/)
+- [PhD defence record — KU Leuven](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E02/3E020104.htm)
