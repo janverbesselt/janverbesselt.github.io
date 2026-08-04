@@ -4,9 +4,8 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-Earth Observation expert with 20+ years of experience spanning academic research, international programme management, and open-source development. Known for bridging scientific depth with real-world application — from forest monitoring, disaster detection, to European space policy.
+Earth Observation expert with 20+ years of experience spanning academic research, international programme management, and open-source development. Known for bridging scientific depth with real-world application — from forest monitoring, disaster detection, to European space policy:
 
-## Table of Contents
 {:.no_toc}
 
 * TOC
