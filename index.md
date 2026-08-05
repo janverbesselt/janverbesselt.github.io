@@ -4,18 +4,19 @@ title: Latest News
 permalink: /
 ---
 
-## Earth Observation expert at the interface of science, policy, and application.**
-
+**Earth Observation expert at the interface of science, policy, and application.**
 I work as Belgian delegate to ESA and EU Copernicus at [BELSPO](https://www.belspo.be), connecting satellite data with operational services, scientific communities, and societal impact. My background spans academic research, open-source development, and international programme coordination.
 
-→ [Curriculum](/curriculum) · [Resources](/resources) · [Teaching & Coaching](/academic-teaching) · [Contact](/contact)
-
+Below you can find more info about recent activities and what I work on:
 
 {:.no_toc}
 
 * TOC
 {:toc}
 
+You can find more info about *open-source teaching materials* via: [Resources](/resources) and *teaching and training I have done and I am available providing* via [Teaching & Coaching](/academic-teaching). 
+
+You can contact me via: [Contact](/contact) and find out more about myself [Curriculum](/curriculum).
 
 
 ## Recent Activities
