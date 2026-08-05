@@ -14,7 +14,7 @@ Below you can find more info about recent activities and what I work on:
 * TOC
 {:toc}
 
-You can find more info about *open-source teaching materials* via: [Resources](/resources) and *teaching and training I have done and I am available providing* via [Teaching & Coaching](/academic-teaching). 
+You can find more info about *open-source teaching materials* via: [Resources](/resources) and *teaching and training I have done and I am available providing* via [Teaching & Coaching](/academic-teaching) and also overal [insights](/insights) after changing from an academic carreer to a policy oriented track at Eureopean and international level related to Earth Observation.
 
 You can contact me via: [Contact](/contact) and find out more about myself [Curriculum](/curriculum).
 
