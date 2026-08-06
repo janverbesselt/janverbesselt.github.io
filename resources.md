@@ -5,6 +5,7 @@ permalink: /resources/
 ---
 
 This page highlights (1) open-source tools and teaching tutorials developed, (2) my publications:
+
 {:.no_toc}
 
 * TOC
@@ -47,17 +48,6 @@ An open-source course developed at Wageningen University teaching geospatial scr
 - YouTube intro: [Geo-Scripting overview](https://www.youtube.com/watch?v=ZD2LqpUpps8)
 
 The materials are fully open-source and continue to be used internationally.
-
----
-
-## Projects
-
-Examples of competitive funding and collaborative work:
-
-- **OpenEO** (EU Horizon 2020): enabling large-scale Earth Observation data analysis
-- **SEPAL** (FAO): implementation and capacity building for forest monitoring
-- **Big EO Analytics**: projects combining data science and remote sensing
-- **Copernicus Global Land** monitoring contributions
 
 ---
 
