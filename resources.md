@@ -4,13 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
-This page highlights (1) open-source tools and teaching tutorials developed, (2) my publications  over the course of my research career.
+This page highlights (1) open-source tools and teaching tutorials developed, (2) my publications:
+{:.no_toc}
 
-For a complete publication list:
-- [Google Scholar](https://scholar.google.com/citations?user=LkURAcoAAAAJ)
-- [ORCID: 0000-0001-7923-4309](https://orcid.org/0000-0001-7923-4309)
-- [ResearchGate](https://www.researchgate.net/profile/Jan-Verbesselt)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=12645007600)
+* TOC
+{:toc}
 
 ## Open-Source Software and tutorials
 
@@ -63,7 +61,14 @@ Examples of competitive funding and collaborative work:
 
 ---
 
-## Key Publications
+## Publications and key papers
+
+For a complete publication list:
+- [Google Scholar](https://scholar.google.com/citations?user=LkURAcoAAAAJ)
+- [ORCID: 0000-0001-7923-4309](https://orcid.org/0000-0001-7923-4309)
+- [ResearchGate](https://www.researchgate.net/profile/Jan-Verbesselt)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=12645007600)
+
 
 ### 1. Detecting change in satellite time series — BFAST (2010)
 **Verbesselt J., Hyndman R., Newnham G.** — *Remote Sensing of Environment* (2010)
